@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594951275547",
+    "project_id": "seldura-chat-app-demo",
+    "storage_bucket": "seldura-chat-app-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594951275547:android:bff683ec731c08a9b964be",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594951275547-6tgmall4m64ikch534e2ahmgevppie2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNg8RqjR23r_fqqIRrCk-s456wQAROtCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594951275547-6tgmall4m64ikch534e2ahmgevppie2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
